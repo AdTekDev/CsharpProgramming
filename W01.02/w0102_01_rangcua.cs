@@ -1,7 +1,10 @@
 ﻿
 //  In Hinh Rang Cua
 
-int H, N, i, j;String str;Console.WriteLine("Nhap Chieu cao H cua 1 Tam Giac Rang Cua: ");
+int H, N, i, j;
+String str;
+
+Console.WriteLine("Nhap Chieu cao H cua 1 Tam Giac Rang Cua: ");
 H = Convert.ToInt32(Console.ReadLine());
 
 Console.WriteLine("Nhap N - so Rang Cua: ");
